@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aulket&#39;s Blog</title>
+    <link>https://aulket.github.io/</link>
+    <description>Recent content on Aulket&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; by Your Name</copyright>
+    <lastBuildDate>Sat, 23 Nov 2019 15:09:41 +0800</lastBuildDate>
+    
+	<atom:link href="https://aulket.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eassy01</title>
+      <link>https://aulket.github.io/post/eassy01/</link>
+      <pubDate>Sat, 23 Nov 2019 15:09:41 +0800</pubDate>
+      
+      <guid>https://aulket.github.io/post/eassy01/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
